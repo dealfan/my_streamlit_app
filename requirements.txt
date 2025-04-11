@@ -1,0 +1,7 @@
+streamlit
+pandas
+joblib
+pickle
+jieba
+re
+io
